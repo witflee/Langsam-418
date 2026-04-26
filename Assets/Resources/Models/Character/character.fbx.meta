@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 7008695e31e7837e986e0d989bd7ce30
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: character(Clone)
+      parentName: 
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Root
+      parentName: character(Clone)
+      position: {x: 0.00013606496, y: 0.0000000021815958, z: 0.009816271}
+      rotation: {x: 0.7071053, y: -0.0014506936, z: 0.0014507432, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Circle
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Cylinder
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Icosphere
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Plane
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Plane.001
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Plane.002
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Sphere
+      parentName: Root
+      position: {x: -0.00017638168, y: -0.009825222, z: 0.0000000028156983}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Sphere.001
+      parentName: Root
+      position: {x: -0.00017820086, y: -0.010268562, z: 0.0000000028045595}
+      rotation: {x: -0.7071053, y: 0.0014506931, z: -0.001450743, w: 0.7071053}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Root.001
+      parentName: Root
+      position: {x: 9.3131475e-12, y: 0.03316035, z: -4.256744e-16}
+      rotation: {x: -0.00000012499012, y: 0.0000000029429668, z: 0.92653203, w: 0.376216}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Icosphere.001
+      parentName: Root.001
+      position: {x: -0.03609466, y: 0.023344513, z: -0.0000000029443445}
+      rotation: {x: -0.33798173, y: 0.6211025, z: -0.6211025, w: 0.33798185}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Root.001_end
+      parentName: Root.001
+      position: {x: -0, y: 0.02365825, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Root.002
+      parentName: Root
+      position: {x: 9.3131475e-12, y: 0.03316035, z: -4.256744e-16}
+      rotation: {x: 0.00000013535949, y: 0.00000005973545, z: 0.92715687, w: -0.3746734}
+      scale: {x: 0.9999997, y: 1, z: 1}
+    - name: Icosphere.002
+      parentName: Root.002
+      position: {x: 0.03629887, y: 0.023025708, z: -0.000000008908456}
+      rotation: {x: -0.3407136, y: -0.61960804, z: 0.61960816, w: 0.34071374}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: Root.002_end
+      parentName: Root.002
+      position: {x: -0, y: 0.023901131, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
