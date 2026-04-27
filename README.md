@@ -1,5 +1,12 @@
 # Langsam-418
 
+## Group Members
+Elias Weitfle
+Kapish Jadiya
+Nihal Patel
+Nolan Brownsberger
+Zyad Alkurdi
+
 ## Dependencies
 Git LFS - [Installation Instructions](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage)
 
