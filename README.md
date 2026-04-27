@@ -63,9 +63,7 @@ Setting up the shared repository and getting the Unity project running consisten
 
 ### Future Work
 
-One feature we planned but did not finish was **ambient audio distance scaling** — a system that would detect the player's distance from the door and gradually increase or decrease the volume of ambient room sound. This would have added a meaningful layer of immersion.
-
-More broadly, our biggest takeaway is the importance of hitting milestones and completing features earlier in the development cycle. Finishing core systems ahead of schedule leaves time to iterate, polish, and avoid the kind of last-minute scope cuts we experienced here.
+Our biggest takeaway is the importance of hitting milestones and completing features earlier in the development cycle. Finishing core systems ahead of schedule leaves time to iterate, polish, and avoid the kind of last-minute scope cuts we experienced here.
 
 ---
 
